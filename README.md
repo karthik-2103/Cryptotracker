@@ -1,3 +1,5 @@
 # cryptotracker
 
-Developed a Cryptocurrency Tracker App using React.js and the CoinGecko API to display real-time data on the top 15 ranked cryptocurrencies, including market cap, price, and 24-hour price change.
+Crypto Tracker is a crypto informative app which shows data about market and related details of top 15 crypto's and related news.
+
+[Visit Crypto Tracker](https://crypto-tracker-15.netlify.app)
